@@ -1,0 +1,8 @@
+{
+  "name": "Solar System Drive",
+  "short_name": "SSD",
+  "start_url": "/solar-system-drive/",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#07090f"
+}
