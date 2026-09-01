@@ -1,8 +1,19 @@
 {
   "name": "Solar System Drive",
-  "short_name": "SSD",
-  "start_url": "/solar-system-drive/",
+  "short_name": "Drive",
+  "description": "Dark Sky Hub travel companion for the five scenic routes to Siding Spring.",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#07090f",
-  "theme_color": "#07090f"
+  "theme_color": "#07090f",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }
